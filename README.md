@@ -1,5 +1,5 @@
 # Netology Chat
 
 ```bash
-php: -3 localhost:8000
+php -S localhost:8000
 ```
